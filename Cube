@@ -1,0 +1,7 @@
+public class Cube {
+    public int sideMM;
+
+    public int calculateVolume(){
+        return sideMM* sideMM *sideMM;
+    }
+}
